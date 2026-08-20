@@ -1,8 +1,16 @@
 # 我庆幸自己只是弱小，而不是懦弱
 
 <p align="center">
-  <img src="assets/chouju-spirit.png" width="399" alt="丑橘：弱小，但不懦弱">
+  <img src="assets/chouju-defiance.jpg" width="399" alt="丑橘站稳身体，直面威胁">
 </p>
+
+<p align="center"><em>第一张：力量可以弱小，姿态不能后退。</em></p>
+
+<p align="center">
+  <img src="assets/chouju-spirit.png" width="399" alt="丑橘含着泪水，依然没有退缩">
+</p>
+
+<p align="center"><em>第二张：眼里可以有泪，心里不能有降。</em></p>
 
 <p align="center"><strong>致敬丑橘精神：弱小，但不软弱；害怕，却不后退。</strong></p>
 
