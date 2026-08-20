@@ -1,4 +1,4 @@
-# 丑橘.skill:我庆幸自己只是弱小，而不是懦弱
+# 丑橘.skill：我庆幸自己只是弱小，而不是懦弱
 
 <p align="center">
   <img src="assets/chouju-defiance.jpg" width="399" alt="丑橘站稳身体，直面威胁">
