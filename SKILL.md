@@ -1,11 +1,11 @@
 ---
-name: generate-underdog-duel
-description: Generate a coherent two-image cinematic sequence about a visibly weaker subject confronting a much stronger subject, followed by a continuity-preserving close or medium shot of the same weak subject showing defiance and resolve. Use for requests involving “弱小 vs 强大”, “强弱对峙”, “死战不退”, “不屈”, “弱小但不软弱”, a powerful predator or machine facing a smaller animal, or a second image that must inherit the first image’s species, appearance, scene, direction, and spatial logic.
+name: chouju
+description: Generate a coherent two-image cinematic sequence embodying the Chouju spirit—a visibly weaker subject confronts a much stronger subject, then appears in a continuity-preserving close or medium shot showing fear under control, defiance, and resolve. Use for “丑橘精神”, “我庆幸自己只是弱小，而不是懦弱”, “弱小 vs 强大”, “强弱对峙”, “死战不退”, “不屈”, “弱小但不软弱”, or when image 2 must inherit image 1’s subject identity, scene, lighting, direction, and spatial logic.
 ---
 
-# Generate Underdog Duel
+# Chouju: Weak, Not Cowardly
 
-Create a two-image narrative rather than two independent illustrations. Use the first result as the canonical visual state for the second.
+Create a two-image narrative honoring the Chouju spirit rather than two independent illustrations. Use the first result as the canonical visual state for the second.
 
 Read [references/prompt-templates.md](references/prompt-templates.md) before generating either image.
 
