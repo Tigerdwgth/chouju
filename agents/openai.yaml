@@ -1,0 +1,13 @@
+interface:
+  display_name: 弱者不屈双联画
+  short_description: 生成写实的强弱对峙图片，以及同一弱方死战不退的连续特写
+  default_prompt: 使用 $generate-underdog-duel 生成一组强弱对峙与弱方不屈特写的连续双图。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
